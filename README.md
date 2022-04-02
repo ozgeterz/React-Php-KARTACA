@@ -10,6 +10,12 @@ after this
 
 `npm run start`
   
+To run API calls open a browser or API testing app
+
+`http://localhost:3000/`
+
+
+
 
 
 
