@@ -5,7 +5,9 @@
 You can run it by typing in terminal
 
 `cd rpp`
+
 after this
+
 `npm run start`
   
 
